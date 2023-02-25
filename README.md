@@ -17,6 +17,7 @@ Este projeto é promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <br>
+
 <p align="center">
   Versão Desktop<br>
   <img alt="segundo projeto" src=".github/desktop.jpg">
@@ -36,4 +37,4 @@ Projeto/desafio proposto na trilha Explorer da Rocketseat para familiarizar com 
 
 Neste desafio você deve criar uma página com uma lista de links (menu) que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido. Utilizando HTML e CSS.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://rafaeldsal.github.io/desafio-04/)
